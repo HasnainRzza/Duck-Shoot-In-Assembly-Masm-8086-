@@ -1,4 +1,3 @@
-
 Duck Shoot Game in Assembly Language (MASM 8086)
 Description:
 Duck Shoot is a retro arcade-style shooting game implemented in Assembly Language, specifically MASM 8086. Players take on the role of a marksman tasked with shooting down ducks as they fly across the screen. The game features pixelated graphics, smooth performance, and well-documented code for easy modification.
